@@ -1,0 +1,26 @@
+2020-12-27 16:36:33,533 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-12-27 16:36:33,534 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Python39\lib\site-packages\instabot\bot\bot.py
+2020-12-27 16:36:52,841 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-12-27 16:36:52,841 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-12-27 16:36:52,841 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\giuli\OneDrive\Desktop\DEV\insta bot - python/config/dirtshion_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=83eb7496-c7b9-4e5c-aeec-698addc35892
+- uuid=60673090-8b05-4f7f-9a51-8fbc4792eb73
+- client_session_id=a6dd1152-2ca6-4afd-a7c3-b9173ec84866
+- device_id=android-72b5bbaadd902453
+2020-12-27 16:36:52,850 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-12-27 16:36:57,108 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-12-27 16:36:58,649 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-12-27 16:37:01,003 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-12-27 16:37:01,758 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-12-27 16:37:03,219 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-12-27 16:37:03,992 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-12-27 16:37:05,333 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-12-27 16:37:05,651 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-12-27 16:37:07,900 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-12-27 16:37:07,903 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'dirtshion'!
+2020-12-27 16:37:07,903 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\giuli\OneDrive\Desktop\DEV\insta bot - python/config/dirtshion.checkpoint
+2020-12-27 16:37:11,873 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/4419328098/?max_id=&min_timestamp=None&rank_token=4419328098_60673090-8b05-4f7f-9a51-8fbc4792eb73&ranked_content=true returned response: <Response [200]>
+2020-12-27 16:37:11,875 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\giuli\OneDrive\Desktop\DEV\insta bot - python/config/dirtshion.checkpoint
+2020-12-27 16:37:11,876 - instabot version: 0.117.0 (bot) - INFO - Total archived: 1213
+2020-12-27 16:37:11,876 - instabot version: 0.117.0 (bot) - INFO - Total requests: 2711
